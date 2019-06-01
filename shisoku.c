@@ -9,6 +9,8 @@ int main(){
 
 	printf("This program calculate two numbers.\n");
 
+	printf("No bugs!!\n");
+
 	printf("a+b=%f\n",a+b);
 
 	printf("a-b=%f\n", a-b);
