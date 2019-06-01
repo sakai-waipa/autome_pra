@@ -7,6 +7,8 @@ int main(){
 	a=2;
 	b=3;
 
+	puts("latest update is 2019/06/01");
+
 	printf("This program calculate two numbers.\n");
 
 	printf("a+b=%f\n",a+b);
