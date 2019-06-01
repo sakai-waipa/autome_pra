@@ -6,6 +6,8 @@ int main(){
 	a=2;
 	b=3;
 
+	puts("calculating two numbers");
+
 	printf("a+b=%f\n",a+b);
 
 	printf("a-b=%f\n", a-b);
