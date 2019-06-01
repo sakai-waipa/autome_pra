@@ -1,5 +1,6 @@
 #include <stdio.h>
 //I find bugs
+//I am in your.shisoku
 int main(){
 	double a, b;
 
