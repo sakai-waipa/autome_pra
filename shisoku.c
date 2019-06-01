@@ -15,7 +15,10 @@ int main(){
 
 	printf("a*b=%f\n",a*b);
 
-	printf("a/b=%f\n", a/b);
+	if(b==0)
+		puts("error");
+	else
+		printf("a/b=%f\n", a/b);
 
 	return 0;
 }
